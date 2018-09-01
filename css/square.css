@@ -1,0 +1,14 @@
+
+.box {
+    background-color: red;
+    width: 100%;
+}
+
+.box div {
+    width: 30%;
+    padding-bottom: 30%;
+    background-color: orange;
+    border-radius: 10%;
+    float: left;
+    margin: 1%;
+}
